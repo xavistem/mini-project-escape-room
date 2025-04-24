@@ -1,6 +1,8 @@
 <img src="https://github.com/user-attachments/assets/3c893b81-9121-49f8-a69c-2710a5cebe73" width="300" height="300" />
 
-# Mini Project | Python
+<a name="top"></a>
+
+## Mini Project | Python
 
 <details>
   <summary>
@@ -28,8 +30,8 @@ Antes de empezar este proyecto debes saber:
 - Variables
 - Tipos de datos, operaciones y estructuras
 
-  <br>
-  <hr> 
+<br>
+<hr> 
 
 </details>
 
@@ -41,7 +43,7 @@ En él, navegarás por las diferentes habitaciones de una casa misteriosa. En ca
 
 Al final de este proyecto, al igual que nosotros, habrás ganado experiencia práctica trabajando con estructuras de datos complejas y creando un juego interactivo básico utilizando Python.
 
-¡Disfrúta y suerte!❤️
+¡Disfrúta y suerte! ❤️
 <br>
 
 ## Características clave 
@@ -67,14 +69,13 @@ Consejito: las llaves escondidas son la solución a tus problemas, ¡mucha suert
 
 Disfruta de esta experiencia. 
 
-[Back to top](##Empecemos)
 
 ## Hacks
 <details>
   <summary></summary>
   <br>
 
-<img src="https://github.com/user-attachments/assets/5cbc8c70-e261-491e-b8ac-806618740606" width="600" height="600" />
+<img src="https://github.com/user-attachments/assets/5cbc8c70-e261-491e-b8ac-806618740606" width="800" height="600" />
 
 
 </details>
@@ -84,12 +85,22 @@ Disfruta de esta experiencia.
   <summary></summary>
   <br>
 
-Somos Borja Mendieta, Xavi Fernández y Lucía Ruiz, estudiantes de Ironhack y este es nuestro primer mini project 😎. 
+Somos Borja, Lucía y Xavi, estudiantes de Ironhack y este es nuestro primer mini project 😎. 
 
-[![Borja Mendieta](https://img.shields.io/badge/@BorjaMendi-GitHub-181717?logo=github&style=flat-square)](https://github.com/BorjaMendi) 
-[![Lucía Ruiz](https://img.shields.io/badge/@lucia%Fruiz%Ffrailelogo=github&style=flat-square)](https://github.com/lucia%Fruiz%Ffraile)
-[![Xavi Fernández](https://img.shields.io/badge/xavistemlogo=github&style=flat-square)](https://github.com/xavistem)
+[![Borja Mendieta](https://img.shields.io/badge/@BorjaMendi-GitHub-181717?logo=github&style=flat-square)](https://github.com/BorjaMendi)
 
-[Back to top](##Conócenos)
+[![Lucía Ruiz](https://img.shields.io/badge/@luciaRuizFraile-GitHub-181717?logo=github&style=flat-square)](https://github.com/luciaRuizFraile)
+
+[![Xavi Fernández](https://img.shields.io/badge/@xavistem-GitHub-181717?logo=github&style=flat-square)](https://github.com/xavistem)
+
+
 
 </details>
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.12.7-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Estado-Terminado-brightgreen)
+
+[🔝 Back to top](#top)
