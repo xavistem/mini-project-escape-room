@@ -89,9 +89,10 @@ Somos Borja, Lucía y Xavi, estudiantes de Ironhack y este es nuestro primer min
 
 [![Borja Mendieta](https://img.shields.io/badge/@BorjaMendi-GitHub-181717?logo=github&style=flat-square)](https://github.com/BorjaMendi)
 
-[![Lucía Ruiz](https://img.shields.io/badge/@luciaRuizFraile-GitHub-181717?logo=github&style=flat-square)](https://github.com/luciaRuizFraile)
+[![Lucía Ruiz](https://img.shields.io/badge/@lucia--ruiz--fraile-GitHub-181717?logo=github&style=flat-square)](https://github.com/lucia-ruiz-fraile)
 
 [![Xavi Fernández](https://img.shields.io/badge/@xavistem-GitHub-181717?logo=github&style=flat-square)](https://github.com/xavistem)
+
 
 
 
