@@ -4,13 +4,14 @@
 
 <details>
   <summary>
-   <h2>Learning Goals</h2>
+   <h2>Objetivos de aprendizaje</h2>
   </summary>
 
-  A 
+  Este Escape Room te permite poner en práctica los fundamentos de Python. 
+  De este modo, conseguirás asentar de forma óptima los conocimientos necesarios para desarrollar scape rooms. 
 
-  A
-  
+  Conseguirás crear y manipular diccionarios, listas y loops. Estructurarás un código de Python y comprenderas cómo se ejecuta de forma práctica el código. 
+
   <br>
   <hr> 
 
@@ -18,84 +19,77 @@
 
 <details>
   <summary>
-   <h2>Prerequisites</h2>
+   <h2>Prerequisitos</h2>
   </summary>
-Before this starting this project, you should have learnt about:
+Antes de empezar este proyecto debes saber:
 
+- IDE
 - Basic Python syntax
 - Variables
-- Data types, operators and structures
+- Tipos de datos, operaciones y estructuras
 
   <br>
   <hr> 
 
 </details>
 
-## Introduction
+## Introducción
 
-This is our first data analytics bootcamp mini porject!
+Bienvenidos a nuestro primer mini project del Bootcamp Data Analytics llamado Escape Room.
 
-a
+En él, navegarás por las diferentes habitaciones de una casa misteriosa. En cada habitación encontrarás un enigma a resolver para avanzar en el juego. Recuerda que tu misión es salir sano y a salvo de la casa. 
 
-a
+Al final de este proyecto, al igual que nosotros, habrás ganado experiencia práctica trabajando con estructuras de datos complejas y creando un juego interactivo básico utilizando Python.
 
-a 
-
+¡Disfrúta y suerte!❤️
 <br>
 
+## Características clave 
+- Habitaciones: Cada habitación tiene varios objetos que examinar. Las  habitaciones están conectadas entre ellas por puertas.
+- Puertas: Las puertas están cerradas y necesitas una llave para abrirlas.
+- Llaves: Son objetos escondidos en los muebles.
+- Muebles: Los objetos dentro de las habiatciones. Pueden contener llaves.
 
+## Objetivo 
+Tu objetivo es encontrar las llaves escondidas para avanzar de habitación en habitación hasta encontrar la salida. 
 
+## ¡Empecemos!
+Como jugador debes explorar o examinar los muebles de cada habitación para conseguir ser libre. 
 
-## Requirements
+La aventura comienza en la game_room y puedes elegir explorar o examinar los objetos de cada habitación.
+Si eliges explorar, se le mostrará una lista de los objetos que hay en la habitación donde te encuentras.
+Si decides examinar un muebles, se mostrará información sobre el mueble. En caso de haber una llave escondida la incluirás en tus "llaves recolectadas". 
+En el caso de examinar una puerta y no tener la llave se indicará "está cerrada pero no tienes la llave", en caso contrario aparecerá "has desbloqueado la puerta con la llave que tienes", te damos la enhorabuena de antemano, lograste avanzar en el juego.  
 
-- a
+El jugador debe avanzar de habitación en habitación hasta conseguir salir.
 
+Consejito: las llaves escondidas son la solución a tus problemas, ¡mucha suerte!
 
-## Getting Started
+Disfruta de esta experiencia. 
 
-Complete the challenges in the notebook. Follow the instructions and add your code and explanations as necessary.
+[Back to top](##Empecemos)
 
-## Submission
-
-- Upon completion, run the following commands:
-
-```bash
-git add .
-git commit -m "Solved lab"
-git push origin master
-```
-
-- Paste the link of your lab in Student Portal.
-
-## FAQs
+## Hacks
 <details>
-  <summary>A.</summary>
+  <summary></summary>
   <br>
 
-  A
+<img src="https://github.com/user-attachments/assets/5cbc8c70-e261-491e-b8ac-806618740606" width="600" height="600" />
 
-
-  A
-
-
-  A
-
-  [Back to top](#faqs)
 
 </details>
 
-
+## Conócenos 
 <details>
-  <summary>A</summary>
+  <summary></summary>
   <br>
 
-A
+Somos Borja Mendieta, Xavi Fernández y Lucía Ruiz, estudiantes de Ironhack y este es nuestro primer mini project 😎. 
 
-1. **A
-2. **A
+[![Borja Mendieta](https://img.shields.io/badge/@BorjaMendi-GitHub-181717?logo=github&style=flat-square)](https://github.com/BorjaMendi) 
+[![Lucía Ruiz](https://img.shields.io/badge/@lucia%Fruiz%Ffrailelogo=github&style=flat-square)](https://github.com/lucia%Fruiz%Ffraile)
+[![Xavi Fernández](https://img.shields.io/badge/xavistemlogo=github&style=flat-square)](https://github.com/xavistem)
 
-**Note**: A
-
-  [Back to top](#faqs)
+[Back to top](##Conócenos)
 
 </details>
